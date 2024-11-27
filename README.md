@@ -1,3 +1,9 @@
+### Predicted taxi fares using Machine Learning and Statistics!
+
+Done feature engineering, Exploratory Data Analysis, data visualization, hyperparameter tuning
+
+Tested many machine learning models like XGBoost, LGBM, Random Forrest and got best result with **ExtraTreesRregressor - 96.41%**
+
 ## Data Files
 The dataset is composed of the following files:
 
